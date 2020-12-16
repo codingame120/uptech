@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://codingame120.github.io/uptech/categories/cat2/</loc>
+    <lastmod>2020-12-12T19:38:44+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://codingame120.github.io/uptech/categories/</loc>
+    <lastmod>2020-12-12T19:38:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -22,26 +28,28 @@
   </url>
   
   <url>
-    <loc>https://codingame120.github.io/uptech/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://codingame120.github.io/uptech/pt/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://codingame120.github.io/uptech/de/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://codingame120.github.io/uptech/series/"
-                />
+    <loc>https://codingame120.github.io/uptech/post/b/</loc>
+    <lastmod>2020-12-12T19:38:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codingame120.github.io/uptech/post/</loc>
+    <lastmod>2020-12-12T19:38:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codingame120.github.io/uptech/tags/tag1/</loc>
+    <lastmod>2020-12-12T19:38:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codingame120.github.io/uptech/tags/tag3/</loc>
+    <lastmod>2020-12-12T19:38:44+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://codingame120.github.io/uptech/tags/</loc>
+    <lastmod>2020-12-12T19:38:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -61,6 +69,7 @@
   
   <url>
     <loc>https://codingame120.github.io/uptech/</loc>
+    <lastmod>2020-12-12T19:38:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -75,6 +84,40 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://codingame120.github.io/uptech/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://codingame120.github.io/uptech/categories/cat1/</loc>
+    <lastmod>2020-12-12T09:24:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codingame120.github.io/uptech/post/a/</loc>
+    <lastmod>2020-12-12T09:24:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codingame120.github.io/uptech/tags/tag2/</loc>
+    <lastmod>2020-12-12T09:24:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codingame120.github.io/uptech/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://codingame120.github.io/uptech/pt/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://codingame120.github.io/uptech/de/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://codingame120.github.io/uptech/series/"
                 />
   </url>
   
