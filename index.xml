@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UpTech</title>
-    <link>http://uptech.cf/</link>
+    <link>https://uptech.cf/</link>
     <description>Recent content on UpTech</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020, UpTech; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 12 Dec 2020 19:38:44 +0100</lastBuildDate><atom:link href="http://uptech.cf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Dec 2020 19:38:44 +0100</lastBuildDate><atom:link href="https://uptech.cf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Just Text</title>
-      <link>http://uptech.cf/post/b/</link>
+      <link>https://uptech.cf/post/b/</link>
       <pubDate>Sat, 12 Dec 2020 19:38:44 +0100</pubDate>
       
-      <guid>http://uptech.cf/post/b/</guid>
+      <guid>https://uptech.cf/post/b/</guid>
       <description>Something else</description>
     </item>
     
     <item>
       <title>Rich Content Page</title>
-      <link>http://uptech.cf/post/a/</link>
+      <link>https://uptech.cf/post/a/</link>
       <pubDate>Sat, 12 Dec 2020 09:24:22 +0100</pubDate>
       
-      <guid>http://uptech.cf/post/a/</guid>
+      <guid>https://uptech.cf/post/a/</guid>
       <description>This is Rich content page.
 This is youtube video.
   This is vimeo video.
