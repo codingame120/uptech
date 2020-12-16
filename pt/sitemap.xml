@@ -3,78 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://codingame120.github.io/uptech/pt/categories/</loc>
+    <loc>http://uptech.cf/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://codingame120.github.io/uptech/categories/"
+                href="http://uptech.cf/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://codingame120.github.io/uptech/de/categories/"
+                href="http://uptech.cf/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://codingame120.github.io/uptech/pt/categories/"
+                href="http://uptech.cf/pt/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://codingame120.github.io/uptech/pt/series/</loc>
+    <loc>http://uptech.cf/pt/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://codingame120.github.io/uptech/series/"
+                href="http://uptech.cf/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://codingame120.github.io/uptech/de/series/"
+                href="http://uptech.cf/de/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://codingame120.github.io/uptech/pt/series/"
+                href="http://uptech.cf/pt/series/"
                 />
   </url>
   
   <url>
-    <loc>https://codingame120.github.io/uptech/pt/tags/</loc>
+    <loc>http://uptech.cf/pt/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://codingame120.github.io/uptech/tags/"
+                href="http://uptech.cf/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://codingame120.github.io/uptech/de/tags/"
+                href="http://uptech.cf/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://codingame120.github.io/uptech/pt/tags/"
+                href="http://uptech.cf/pt/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://codingame120.github.io/uptech/pt/</loc>
+    <loc>http://uptech.cf/pt/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://codingame120.github.io/uptech/"
+                href="http://uptech.cf/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://codingame120.github.io/uptech/de/"
+                href="http://uptech.cf/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://codingame120.github.io/uptech/pt/"
+                href="http://uptech.cf/pt/"
                 />
   </url>
   

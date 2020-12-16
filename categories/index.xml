@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on UpTech</title>
-    <link>https://codingame120.github.io/uptech/categories/</link>
+    <link>http://uptech.cf/categories/</link>
     <description>Recent content in Categories on UpTech</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020, UpTech; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 12 Dec 2020 19:38:44 +0100</lastBuildDate><atom:link href="https://codingame120.github.io/uptech/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Dec 2020 19:38:44 +0100</lastBuildDate><atom:link href="http://uptech.cf/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cat2</title>
-      <link>https://codingame120.github.io/uptech/categories/cat2/</link>
+      <link>http://uptech.cf/categories/cat2/</link>
       <pubDate>Sat, 12 Dec 2020 19:38:44 +0100</pubDate>
       
-      <guid>https://codingame120.github.io/uptech/categories/cat2/</guid>
+      <guid>http://uptech.cf/categories/cat2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cat1</title>
-      <link>https://codingame120.github.io/uptech/categories/cat1/</link>
+      <link>http://uptech.cf/categories/cat1/</link>
       <pubDate>Sat, 12 Dec 2020 09:24:22 +0100</pubDate>
       
-      <guid>https://codingame120.github.io/uptech/categories/cat1/</guid>
+      <guid>http://uptech.cf/categories/cat1/</guid>
       <description></description>
     </item>
     
