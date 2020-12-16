@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://codingame120.github.io/uptech/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://codingame120.github.io/uptech/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://codingame120.github.io/uptech/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://codingame120.github.io/uptech/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://codingame120.github.io/uptech/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://codingame120.github.io/uptech/pt/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://codingame120.github.io/uptech/de/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://codingame120.github.io/uptech/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://codingame120.github.io/uptech/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://codingame120.github.io/uptech/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://codingame120.github.io/uptech/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://codingame120.github.io/uptech/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://codingame120.github.io/uptech/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://codingame120.github.io/uptech/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://codingame120.github.io/uptech/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://codingame120.github.io/uptech/"
+                />
+  </url>
+  
+</urlset>
