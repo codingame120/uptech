@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://uptech.cf/categories/cat2/</loc>
-    <lastmod>2020-12-12T19:38:44+01:00</lastmod>
+    <loc>https://uptech.cf/tags/audio/</loc>
+    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://uptech.cf/categories/</loc>
-    <lastmod>2020-12-12T19:38:44+01:00</lastmod>
+    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -28,28 +28,33 @@
   </url>
   
   <url>
-    <loc>https://uptech.cf/post/b/</loc>
-    <lastmod>2020-12-12T19:38:44+01:00</lastmod>
+    <loc>https://uptech.cf/categories/how-to/</loc>
+    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uptech.cf/post/how-to-play-music-in-termux/</loc>
+    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uptech.cf/tags/music/</loc>
+    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uptech.cf/tags/phone/</loc>
+    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://uptech.cf/post/</loc>
-    <lastmod>2020-12-12T19:38:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uptech.cf/tags/tag1/</loc>
-    <lastmod>2020-12-12T19:38:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uptech.cf/tags/tag3/</loc>
-    <lastmod>2020-12-12T19:38:44+01:00</lastmod>
+    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://uptech.cf/tags/</loc>
-    <lastmod>2020-12-12T19:38:44+01:00</lastmod>
+    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -68,8 +73,18 @@
   </url>
   
   <url>
+    <loc>https://uptech.cf/categories/technology/</loc>
+    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uptech.cf/tags/termux/</loc>
+    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://uptech.cf/</loc>
-    <lastmod>2020-12-12T19:38:44+01:00</lastmod>
+    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -85,21 +100,6 @@
                 hreflang="en"
                 href="https://uptech.cf/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://uptech.cf/categories/cat1/</loc>
-    <lastmod>2020-12-12T09:24:22+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uptech.cf/post/a/</loc>
-    <lastmod>2020-12-12T09:24:22+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uptech.cf/tags/tag2/</loc>
-    <lastmod>2020-12-12T09:24:22+01:00</lastmod>
   </url>
   
   <url>

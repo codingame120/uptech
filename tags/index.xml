@@ -6,31 +6,40 @@
     <description>Recent content in Tags on UpTech</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020, UpTech; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 12 Dec 2020 19:38:44 +0100</lastBuildDate><atom:link href="https://uptech.cf/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Dec 2020 21:41:33 +0100</lastBuildDate><atom:link href="https://uptech.cf/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>tag1</title>
-      <link>https://uptech.cf/tags/tag1/</link>
-      <pubDate>Sat, 12 Dec 2020 19:38:44 +0100</pubDate>
+      <title>Audio</title>
+      <link>https://uptech.cf/tags/audio/</link>
+      <pubDate>Thu, 17 Dec 2020 21:41:33 +0100</pubDate>
       
-      <guid>https://uptech.cf/tags/tag1/</guid>
+      <guid>https://uptech.cf/tags/audio/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tag3</title>
-      <link>https://uptech.cf/tags/tag3/</link>
-      <pubDate>Sat, 12 Dec 2020 19:38:44 +0100</pubDate>
+      <title>Music</title>
+      <link>https://uptech.cf/tags/music/</link>
+      <pubDate>Thu, 17 Dec 2020 21:41:33 +0100</pubDate>
       
-      <guid>https://uptech.cf/tags/tag3/</guid>
+      <guid>https://uptech.cf/tags/music/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tag2</title>
-      <link>https://uptech.cf/tags/tag2/</link>
-      <pubDate>Sat, 12 Dec 2020 09:24:22 +0100</pubDate>
+      <title>Phone</title>
+      <link>https://uptech.cf/tags/phone/</link>
+      <pubDate>Thu, 17 Dec 2020 21:41:33 +0100</pubDate>
       
-      <guid>https://uptech.cf/tags/tag2/</guid>
+      <guid>https://uptech.cf/tags/phone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Termux</title>
+      <link>https://uptech.cf/tags/termux/</link>
+      <pubDate>Thu, 17 Dec 2020 21:41:33 +0100</pubDate>
+      
+      <guid>https://uptech.cf/tags/termux/</guid>
       <description></description>
     </item>
     

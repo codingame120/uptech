@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on UpTech</title>
-    <link>https://uptech.cf/post/</link>
-    <description>Recent content in Posts on UpTech</description>
+    <title>How To on UpTech</title>
+    <link>https://uptech.cf/categories/how-to/</link>
+    <description>Recent content in How To on UpTech</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020, UpTech; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 17 Dec 2020 21:41:33 +0100</lastBuildDate><atom:link href="https://uptech.cf/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Dec 2020 21:41:33 +0100</lastBuildDate><atom:link href="https://uptech.cf/categories/how-to/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Play Music in Termux</title>
       <link>https://uptech.cf/post/how-to-play-music-in-termux/</link>
