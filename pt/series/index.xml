@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on UpTech</title>
-    <link>https://uptech.cf/pt/series/</link>
+    <link>https://www.uptech.cf/pt/series/</link>
     <description>Recent content in Series on UpTech</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2020, UpTech; all rights reserved.</copyright><atom:link href="https://uptech.cf/pt/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2020, UpTech; all rights reserved.</copyright><atom:link href="https://www.uptech.cf/pt/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

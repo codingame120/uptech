@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on UpTech</title>
-    <link>https://uptech.cf/tags/</link>
+    <link>https://www.uptech.cf/tags/</link>
     <description>Recent content in Tags on UpTech</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020, UpTech; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 17 Dec 2020 21:41:33 +0100</lastBuildDate><atom:link href="https://uptech.cf/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Dec 2020 21:41:33 +0100</lastBuildDate><atom:link href="https://www.uptech.cf/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Audio</title>
-      <link>https://uptech.cf/tags/audio/</link>
+      <link>https://www.uptech.cf/tags/audio/</link>
       <pubDate>Thu, 17 Dec 2020 21:41:33 +0100</pubDate>
       
-      <guid>https://uptech.cf/tags/audio/</guid>
+      <guid>https://www.uptech.cf/tags/audio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>https://uptech.cf/tags/music/</link>
+      <link>https://www.uptech.cf/tags/music/</link>
       <pubDate>Thu, 17 Dec 2020 21:41:33 +0100</pubDate>
       
-      <guid>https://uptech.cf/tags/music/</guid>
+      <guid>https://www.uptech.cf/tags/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phone</title>
-      <link>https://uptech.cf/tags/phone/</link>
+      <link>https://www.uptech.cf/tags/phone/</link>
       <pubDate>Thu, 17 Dec 2020 21:41:33 +0100</pubDate>
       
-      <guid>https://uptech.cf/tags/phone/</guid>
+      <guid>https://www.uptech.cf/tags/phone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Termux</title>
-      <link>https://uptech.cf/tags/termux/</link>
+      <link>https://www.uptech.cf/tags/termux/</link>
       <pubDate>Thu, 17 Dec 2020 21:41:33 +0100</pubDate>
       
-      <guid>https://uptech.cf/tags/termux/</guid>
+      <guid>https://www.uptech.cf/tags/termux/</guid>
       <description></description>
     </item>
     

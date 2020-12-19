@@ -3,78 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://uptech.cf/de/categories/</loc>
+    <loc>https://www.uptech.cf/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uptech.cf/categories/"
+                href="https://www.uptech.cf/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://uptech.cf/pt/categories/"
+                href="https://www.uptech.cf/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://uptech.cf/de/categories/"
+                href="https://www.uptech.cf/de/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://uptech.cf/de/series/</loc>
+    <loc>https://www.uptech.cf/de/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uptech.cf/series/"
+                href="https://www.uptech.cf/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://uptech.cf/pt/series/"
+                href="https://www.uptech.cf/pt/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://uptech.cf/de/series/"
+                href="https://www.uptech.cf/de/series/"
                 />
   </url>
   
   <url>
-    <loc>https://uptech.cf/de/tags/</loc>
+    <loc>https://www.uptech.cf/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uptech.cf/tags/"
+                href="https://www.uptech.cf/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://uptech.cf/pt/tags/"
+                href="https://www.uptech.cf/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://uptech.cf/de/tags/"
+                href="https://www.uptech.cf/de/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://uptech.cf/de/</loc>
+    <loc>https://www.uptech.cf/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uptech.cf/"
+                href="https://www.uptech.cf/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://uptech.cf/pt/"
+                href="https://www.uptech.cf/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://uptech.cf/de/"
+                href="https://www.uptech.cf/de/"
                 />
   </url>
   

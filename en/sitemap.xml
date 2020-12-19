@@ -3,121 +3,121 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://uptech.cf/tags/audio/</loc>
+    <loc>https://www.uptech.cf/tags/audio/</loc>
     <lastmod>2020-12-17T21:41:33+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://uptech.cf/categories/</loc>
-    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://uptech.cf/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://uptech.cf/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://uptech.cf/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://uptech.cf/categories/how-to/</loc>
-    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uptech.cf/post/how-to-play-music-in-termux/</loc>
-    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uptech.cf/tags/music/</loc>
-    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uptech.cf/tags/phone/</loc>
-    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uptech.cf/post/</loc>
-    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uptech.cf/tags/</loc>
+    <loc>https://www.uptech.cf/categories/</loc>
     <lastmod>2020-12-17T21:41:33+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://uptech.cf/pt/tags/"
+                href="https://www.uptech.cf/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://uptech.cf/de/tags/"
+                href="https://www.uptech.cf/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uptech.cf/tags/"
+                href="https://www.uptech.cf/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://uptech.cf/categories/technology/</loc>
+    <loc>https://www.uptech.cf/categories/how-to/</loc>
     <lastmod>2020-12-17T21:41:33+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://uptech.cf/tags/termux/</loc>
+    <loc>https://www.uptech.cf/post/how-to-play-music-in-termux/</loc>
     <lastmod>2020-12-17T21:41:33+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://uptech.cf/</loc>
+    <loc>https://www.uptech.cf/tags/music/</loc>
+    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.uptech.cf/tags/phone/</loc>
+    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.uptech.cf/post/</loc>
+    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.uptech.cf/tags/</loc>
     <lastmod>2020-12-17T21:41:33+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://uptech.cf/pt/"
+                href="https://www.uptech.cf/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://uptech.cf/de/"
+                href="https://www.uptech.cf/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uptech.cf/"
+                href="https://www.uptech.cf/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://uptech.cf/series/</loc>
+    <loc>https://www.uptech.cf/categories/technology/</loc>
+    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.uptech.cf/tags/termux/</loc>
+    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.uptech.cf/</loc>
+    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://uptech.cf/pt/series/"
+                href="https://www.uptech.cf/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://uptech.cf/de/series/"
+                href="https://www.uptech.cf/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://uptech.cf/series/"
+                href="https://www.uptech.cf/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.uptech.cf/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.uptech.cf/pt/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.uptech.cf/de/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.uptech.cf/series/"
                 />
   </url>
   
