@@ -5,8 +5,31 @@
     <link>https://www.uptech.cf/</link>
     <description>Recent content on UpTech</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2020, UpTech; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 22 Dec 2020 22:35:45 +0100</lastBuildDate><atom:link href="https://www.uptech.cf/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2021, UpTech; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 01 Jan 2021 19:24:53 +0100</lastBuildDate><atom:link href="https://www.uptech.cf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://www.uptech.cf/about/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.uptech.cf/about/</guid>
+      <description> About UpTech UpTech is a blog about technology.
+We like Computers technology and all related things.
+We will provide you with quality content about a numerous number of topics, and various computer technologies.
+So stay tuned, and feel free to share with us your opinion and wishes about what would you like to know.
+</description>
+    </item>
+    
+    <item>
+      <title>Best Web Browser for Security and Privacy</title>
+      <link>https://www.uptech.cf/post/best-web-browsers-for-security-and-privacy/</link>
+      <pubDate>Fri, 01 Jan 2021 19:24:53 +0100</pubDate>
+      
+      <guid>https://www.uptech.cf/post/best-web-browsers-for-security-and-privacy/</guid>
+      <description>Introduction In today&#39;s world we can say that big amount of time we spend on Web. Listening music, reading news, watching videos or movies. Or just surfing the Web. And all that we do trough application called Browser.
+So it&#39;s very important for our personal as and our system to be secure in that process. Web security is a much more complex topic, but we will here focus on Browser security.</description>
+    </item>
+    
     <item>
       <title>What Is Termux How to Install It And First Steps After Installation</title>
       <link>https://www.uptech.cf/post/what-is-termux-how-to-install-it-and-first-steps-after-installation/</link>

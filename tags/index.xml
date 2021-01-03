@@ -5,8 +5,35 @@
     <link>https://www.uptech.cf/tags/</link>
     <description>Recent content in Tags on UpTech</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2020, UpTech; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 22 Dec 2020 22:35:45 +0100</lastBuildDate><atom:link href="https://www.uptech.cf/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2021, UpTech; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 01 Jan 2021 19:24:53 +0100</lastBuildDate><atom:link href="https://www.uptech.cf/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desktop</title>
+      <link>https://www.uptech.cf/tags/desktop/</link>
+      <pubDate>Fri, 01 Jan 2021 19:24:53 +0100</pubDate>
+      
+      <guid>https://www.uptech.cf/tags/desktop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phone</title>
+      <link>https://www.uptech.cf/tags/phone/</link>
+      <pubDate>Fri, 01 Jan 2021 19:24:53 +0100</pubDate>
+      
+      <guid>https://www.uptech.cf/tags/phone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Browsers</title>
+      <link>https://www.uptech.cf/tags/web-browsers/</link>
+      <pubDate>Fri, 01 Jan 2021 19:24:53 +0100</pubDate>
+      
+      <guid>https://www.uptech.cf/tags/web-browsers/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Android</title>
       <link>https://www.uptech.cf/tags/android/</link>
@@ -40,15 +67,6 @@
       <pubDate>Thu, 17 Dec 2020 21:41:33 +0100</pubDate>
       
       <guid>https://www.uptech.cf/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phone</title>
-      <link>https://www.uptech.cf/tags/phone/</link>
-      <pubDate>Thu, 17 Dec 2020 21:41:33 +0100</pubDate>
-      
-      <guid>https://www.uptech.cf/tags/phone/</guid>
       <description></description>
     </item>
     
