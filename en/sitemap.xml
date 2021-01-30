@@ -43,11 +43,6 @@
   </url>
   
   <url>
-    <loc>https://www.uptech.cf/tags/phone/</loc>
-    <lastmod>2021-01-01T19:24:53+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.uptech.cf/post/</loc>
     <lastmod>2021-01-01T19:24:53+01:00</lastmod>
   </url>
@@ -169,6 +164,11 @@
   
   <url>
     <loc>https://www.uptech.cf/tags/music/</loc>
+    <lastmod>2020-12-17T21:41:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.uptech.cf/tags/phone/</loc>
     <lastmod>2020-12-17T21:41:33+01:00</lastmod>
   </url>
   
