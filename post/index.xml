@@ -6,7 +6,23 @@
     <description>Recent content in Posts on UpTech</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2021, UpTech; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 01 Jan 2021 19:24:53 +0100</lastBuildDate><atom:link href="https://www.uptech.cf/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Feb 2021 00:40:22 +0100</lastBuildDate><atom:link href="https://www.uptech.cf/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Customize Termux</title>
+      <link>https://www.uptech.cf/post/how-to-customize-termux/</link>
+      <pubDate>Mon, 01 Feb 2021 00:40:22 +0100</pubDate>
+      
+      <guid>https://www.uptech.cf/post/how-to-customize-termux/</guid>
+      <description>Removing Termux Welcome Screen Text We will start with removing termux welcome screen text.
+Type:
+1cd .. To change directory.
+1ls To list directory.
+1cd usr/etc Change directory to etc
+1ls List directory.
+1rm -rf motd Remove file named motd.
+When you start new window you will see that there is no more welcome text and termux start with clean window. With those commands we were to remove motd file.</description>
+    </item>
+    
     <item>
       <title>Best Web Browsers for Security and Privacy ( Desktop )</title>
       <link>https://www.uptech.cf/post/best-web-browsers-for-security-and-privacy/</link>
