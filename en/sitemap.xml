@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.uptech.cf/post/best-web-browsers-for-security-and-privacy-android-and-ios/</loc>
-    <lastmod>2021-02-09T10:08:23+01:00</lastmod>
+    <loc>https://www.uptech.cf/tags/android/</loc>
+    <lastmod>2021-02-01T00:40:22+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.uptech.cf/categories/</loc>
-    <lastmod>2021-02-09T10:08:23+01:00</lastmod>
+    <lastmod>2021-02-01T00:40:22+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -28,23 +28,23 @@
   </url>
   
   <url>
-    <loc>https://www.uptech.cf/categories/internet/</loc>
-    <lastmod>2021-02-09T10:08:23+01:00</lastmod>
+    <loc>https://www.uptech.cf/categories/how-to/</loc>
+    <lastmod>2021-02-01T00:40:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.uptech.cf/post/how-to-customize-termux/</loc>
+    <lastmod>2021-02-01T00:40:22+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.uptech.cf/post/</loc>
-    <lastmod>2021-02-09T10:08:23+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.uptech.cf/categories/security/</loc>
-    <lastmod>2021-02-09T10:08:23+01:00</lastmod>
+    <lastmod>2021-02-01T00:40:22+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.uptech.cf/series/</loc>
-    <lastmod>2021-02-09T10:08:23+01:00</lastmod>
+    <lastmod>2021-02-01T00:40:22+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -63,13 +63,8 @@
   </url>
   
   <url>
-    <loc>https://www.uptech.cf/tags/smartphones/</loc>
-    <lastmod>2021-02-09T10:08:23+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.uptech.cf/tags/</loc>
-    <lastmod>2021-02-09T10:08:23+01:00</lastmod>
+    <lastmod>2021-02-01T00:40:22+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -89,12 +84,22 @@
   
   <url>
     <loc>https://www.uptech.cf/categories/technology/</loc>
-    <lastmod>2021-02-09T10:08:23+01:00</lastmod>
+    <lastmod>2021-02-01T00:40:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.uptech.cf/tags/termux/</loc>
+    <lastmod>2021-02-01T00:40:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.uptech.cf/series/termux/</loc>
+    <lastmod>2021-02-01T00:40:22+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.uptech.cf/</loc>
-    <lastmod>2021-02-09T10:08:23+01:00</lastmod>
+    <lastmod>2021-02-01T00:40:22+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -110,41 +115,6 @@
                 hreflang="en"
                 href="https://www.uptech.cf/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.uptech.cf/tags/web-browsers/</loc>
-    <lastmod>2021-02-09T10:08:23+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.uptech.cf/series/web-security/</loc>
-    <lastmod>2021-02-09T10:08:23+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.uptech.cf/tags/android/</loc>
-    <lastmod>2021-02-01T00:40:22+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.uptech.cf/categories/how-to/</loc>
-    <lastmod>2021-02-01T00:40:22+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.uptech.cf/post/how-to-customize-termux/</loc>
-    <lastmod>2021-02-01T00:40:22+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.uptech.cf/tags/termux/</loc>
-    <lastmod>2021-02-01T00:40:22+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.uptech.cf/series/termux/</loc>
-    <lastmod>2021-02-01T00:40:22+01:00</lastmod>
   </url>
   
   <url>
@@ -164,6 +134,26 @@
   
   <url>
     <loc>https://www.uptech.cf/tags/desktop/</loc>
+    <lastmod>2021-01-01T19:24:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.uptech.cf/categories/internet/</loc>
+    <lastmod>2021-01-01T19:24:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.uptech.cf/categories/security/</loc>
+    <lastmod>2021-01-01T19:24:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.uptech.cf/tags/web-browsers/</loc>
+    <lastmod>2021-01-01T19:24:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.uptech.cf/series/web-security/</loc>
     <lastmod>2021-01-01T19:24:53+01:00</lastmod>
   </url>
   
