@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on UpTech</title>
+    <link>https://www.uptech.cf/post/</link>
+    <description>Recent content in Posts on UpTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 09 Feb 2021 10:08:23 +0100</lastBuildDate><atom:link href="https://www.uptech.cf/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Web Browsers for Security and Privacy Android and iOS</title>
+      <link>https://www.uptech.cf/post/best-web-browsers-for-security-and-privacy-android-and-ios/</link>
+      <pubDate>Tue, 09 Feb 2021 10:08:23 +0100</pubDate>
+      
+      <guid>https://www.uptech.cf/post/best-web-browsers-for-security-and-privacy-android-and-ios/</guid>
+      <description>Introduction Great amount of time on our phones we spend searching the web, how safe are our default browsers in terms of malware and virus protection and how much they respect our privacy? Well unfortunately not very much! Due to various functions enabled in Google Chrome, Safari and other major Web Browsers it leads to lack of security. Some can be modified in settings, but to most of them we as end users do not have access, they are built in the core of the Browsers.</description>
+    </item>
+    
+    <item>
+      <title>How to Customize Termux</title>
+      <link>https://www.uptech.cf/post/how-to-customize-termux/</link>
+      <pubDate>Mon, 01 Feb 2021 00:40:22 +0100</pubDate>
+      
+      <guid>https://www.uptech.cf/post/how-to-customize-termux/</guid>
+      <description>Removing Termux Welcome Screen Text We will start with removing termux welcome screen text.
+Type:
+1cd .. To change directory.
+1ls To list directory.
+1cd usr/etc Change directory to etc
+1ls List directory.
+1rm -rf motd Remove file named motd.
+When you start new window you will see that there is no more welcome text and termux start with clean window. With those commands we were to remove motd file.</description>
+    </item>
+    
+    <item>
+      <title>Best Web Browsers for Security and Privacy ( Desktop )</title>
+      <link>https://www.uptech.cf/post/best-web-browsers-for-security-and-privacy/</link>
+      <pubDate>Fri, 01 Jan 2021 19:24:53 +0100</pubDate>
+      
+      <guid>https://www.uptech.cf/post/best-web-browsers-for-security-and-privacy/</guid>
+      <description>Introduction In today&#39;s world we can say that big amount of time we spend on Web. Listening music, reading news, watching videos or movies. Or just surfing the Web. And all that we do trough application called Browser.
+So it&#39;s very important for our personal as and our system to be secure in that process. Web security is a much more complex topic, but we will here focus on Browser security.</description>
+    </item>
+    
+    <item>
+      <title>What Is Termux How to Install It And First Steps After Installation</title>
+      <link>https://www.uptech.cf/post/what-is-termux-how-to-install-it-and-first-steps-after-installation/</link>
+      <pubDate>Tue, 22 Dec 2020 22:35:45 +0100</pubDate>
+      
+      <guid>https://www.uptech.cf/post/what-is-termux-how-to-install-it-and-first-steps-after-installation/</guid>
+      <description>Introduction To Termux TERMUX is a terminal emulator for Android system. It means that you can access to the system on your phone through a terminal like on Linux, Windows or macOS. Since Android is built on Linux, Termux use Unix-like commands.
+Unfortunately app is not available for iphone.
+Those who use Linux and macOS will be familiar with commands.
+For those who use Windows will be little unfamiliar since CMD ( Command Prompt ) use different commands.</description>
+    </item>
+    
+    <item>
+      <title>How to Play Music in Termux</title>
+      <link>https://www.uptech.cf/post/how-to-play-music-in-termux/</link>
+      <pubDate>Thu, 17 Dec 2020 21:41:33 +0100</pubDate>
+      
+      <guid>https://www.uptech.cf/post/how-to-play-music-in-termux/</guid>
+      <description>Introduction Why would you want to play audio files and music in termux terminal on your phone? Well if nothing else then because is fun...  There are more ways ( Programs for play music and audio files in termux ). In this article, we will look for one who calls play-audio.
+First as good practice we need to run:
+1pkg update &amp;amp;&amp;amp; pkg upgrade commands to update and upgrade our repositories.</description>
+    </item>
+    
+  </channel>
+</rss>
