@@ -1,2 +1,0 @@
-"# uptech" 
-"# uptech" 
