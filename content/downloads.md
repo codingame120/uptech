@@ -11,6 +11,4 @@ draft: false
 <br/>
 <br/>
 
-<center> <h1>About UpTech</h1> </center>
-
 <br/>
