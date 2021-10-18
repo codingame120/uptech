@@ -4,7 +4,7 @@
   <head>
 <title>How to Customize Termux | UpTech</title>
 <meta charset="utf-8">
-<meta name="generator" content="Hugo 0.79.0" />
+<meta name="generator" content="Hugo 0.88.1" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-6PBSN5S8DJ"></script>
@@ -36,8 +36,8 @@
     
     
     <link rel="preload" href="https://www.uptech.cf/css/styles.470e332907e6e0d9ca6102f66b0936dfb5c32787c9f853d420063723511605ea1450223b450c9dd3acaab2a9571d6dd899055a667a54a757bae71c6e007d7274.css" integrity = "sha512-Rw4zKQfm4NnKYQL2awk237XDJ4fJ&#43;FPUIAY3I1EWBeoUUCI7RQyd06yqsqlXHW3YmQVaZnpUp1e65xxuAH1ydA==" as="style" crossorigin="anonymous">
-    <link rel="preload" href="https://www.uptech.cf/js/bundle.min.d7796cfe1c8b9024a29ee07232e917e46066ff662a9418da9e3e04b6f0ee177c9679e93d781d905963d64fdc89587d80e15a01df864d0572830ec48c0c050ef0.js" as="script" integrity=
-    "sha512-13ls/hyLkCSinuByMukX5GBm/2YqlBjanj4EtvDuF3yWeek9eB2QWWPWT9yJWH2A4VoB34ZNBXKDDsSMDAUO8A==" crossorigin="anonymous">
+    <link rel="preload" href="https://www.uptech.cf/js/bundle.min.eeeb438f486d5918fc50d0a29c893eeac0f4c74426368fdce07d14282e0445f8a651f9ce3a54a5f73a8ff9253bf4abb1b895d45c3a01378a8a74c22b8f3830d2.js" as="script" integrity=
+    "sha512-7utDj0htWRj8UNCinIk&#43;6sD0x0QmNo/c4H0UKC4ERfimUfnOOlSl9zqP&#43;SU79KuxuJXUXDoBN4qKdMIrjzgw0g==" crossorigin="anonymous">
 
     
     <link rel="stylesheet" type="text/css" href="https://www.uptech.cf/css/styles.470e332907e6e0d9ca6102f66b0936dfb5c32787c9f853d420063723511605ea1450223b450c9dd3acaab2a9571d6dd899055a667a54a757bae71c6e007d7274.css" integrity="sha512-Rw4zKQfm4NnKYQL2awk237XDJ4fJ&#43;FPUIAY3I1EWBeoUUCI7RQyd06yqsqlXHW3YmQVaZnpUp1e65xxuAH1ydA==" crossorigin="anonymous">
@@ -184,15 +184,15 @@
 <h2 id="removing-termux-welcome-screen-text">Removing Termux Welcome Screen Text</h2>
 <p>We will start with removing termux welcome screen text.</p>
 <p>Type:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>cd ..
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>cd ..
 </code></pre></div><p>To change directory.</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>ls
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>ls
 </code></pre></div><p>To list directory.</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>cd usr/etc
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>cd usr/etc
 </code></pre></div><p>Change directory to <code>etc</code></p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>ls
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>ls
 </code></pre></div><p>List directory.</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>rm -rf motd
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>rm -rf motd
 </code></pre></div><p>Remove file named <code>motd</code>.</p>
 <p>When you start new window you will see that there is no more welcome text and termux start with clean window.
 With those commands we were to remove <code>motd</code> file.</p>
@@ -201,21 +201,21 @@ With those commands we were to remove <code>motd</code> file.</p>
 <p>You will need <code>curl</code> installed.
 So if you don't have it already
 type those commands:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>pkg update &amp;&amp; pkg upgrade
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>pkg update &amp;&amp; pkg upgrade
 </code></pre></div><p>And</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>pkg install curl
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>pkg install curl
 </code></pre></div><p>With curl you can download files from the Internet.</p>
 <br/>
 <h2 id="install-termux-ohmyzsh">Install Termux-Ohmyzsh</h2>
 <p>So now when all is set we can proceed
 type or copy this line in your termux terminal:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>sh -c &#34;$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)&#34;
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>sh -c &#34;$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)&#34;
 </code></pre></div><p>It will download <code>Termux-Ohmyzsh</code>.</p>
 <br/>
 <h2 id="change-color-schemes">Change Color Schemes</h2>
 <p>Now when you have installed.</p>
 <p>Type:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>chcolor
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>chcolor
 </code></pre></div><p>Or run:
 <code>~/.termux/colors.sh</code>
 To change color schemes.</p>
@@ -224,7 +224,7 @@ To change color schemes.</p>
 <h2 id="change-fonts">Change Fonts</h2>
 <p>To change fonts.</p>
 <p>Type:</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>chfont
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>chfont
 </code></pre></div><p>Or run:
 <code>~/.termux/fonts.sh</code></p>
 <p>And same as for color scheme type number of font style you want to use and hit enter.
@@ -463,7 +463,7 @@ If you have any questions or suggestions feel free to say us in comments.</p>
 
   </div>
 </footer>
-    <script type="text/javascript" src="https://www.uptech.cf/js/bundle.min.d7796cfe1c8b9024a29ee07232e917e46066ff662a9418da9e3e04b6f0ee177c9679e93d781d905963d64fdc89587d80e15a01df864d0572830ec48c0c050ef0.js" integrity="sha512-13ls/hyLkCSinuByMukX5GBm/2YqlBjanj4EtvDuF3yWeek9eB2QWWPWT9yJWH2A4VoB34ZNBXKDDsSMDAUO8A==" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://www.uptech.cf/js/bundle.min.eeeb438f486d5918fc50d0a29c893eeac0f4c74426368fdce07d14282e0445f8a651f9ce3a54a5f73a8ff9253bf4abb1b895d45c3a01378a8a74c22b8f3830d2.js" integrity="sha512-7utDj0htWRj8UNCinIk&#43;6sD0x0QmNo/c4H0UKC4ERfimUfnOOlSl9zqP&#43;SU79KuxuJXUXDoBN4qKdMIrjzgw0g==" crossorigin="anonymous"></script>
     
   </body>
 </html>
