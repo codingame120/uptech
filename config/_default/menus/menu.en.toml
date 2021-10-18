@@ -26,6 +26,12 @@
   url = "https://www.uptech.cf/downloads"
   weight = -108 
 
+
+[[main]]
+  name = "About Us"
+  url = "https://www.uptech.cf/about"
+  weight = -106 
+
 # Submenus are done this way: parent -> identifier
 #[[main]]
   #name = "Links"

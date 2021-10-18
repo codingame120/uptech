@@ -1,10 +1,8 @@
-+++
-title = ""
-description = "Website aobout technology,internet,computers,phones.Linux,windows,macOS,ios,android."
-date = "2021-01-03"
-aliases = ["about-us", "about-uptech", "contact"]
-author = "UpTech"
-+++
+---
+title: "About Us"
+date: 2021-10-18T20:54:32+02:00
+draft: false
+---
 
 </br>
 

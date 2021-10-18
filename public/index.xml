@@ -7,6 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 09 Feb 2021 10:08:23 +0100</lastBuildDate><atom:link href="https://www.uptech.cf/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About Us</title>
+      <link>https://www.uptech.cf/about/</link>
+      <pubDate>Mon, 18 Oct 2021 20:54:32 +0200</pubDate>
+      
+      <guid>https://www.uptech.cf/about/</guid>
+      <description>    About UpTech    UpTech is a blog about technology.
+We like Computers technology and all related things.
+We will provide you with quality content about a numerous number of topics, and various computer technologies.
+So stay tuned, and feel free to share with us your opinion and wishes about what would you like to know.
+     </description>
+    </item>
+    
+    <item>
       <title>Downloads</title>
       <link>https://www.uptech.cf/downloads/</link>
       <pubDate>Sat, 16 Oct 2021 20:43:40 +0200</pubDate>
@@ -47,19 +60,6 @@ Type:
 1ls List directory.
 1rm -rf motd Remove file named motd.
 When you start new window you will see that there is no more welcome text and termux start with clean window. With those commands we were to remove motd file.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.uptech.cf/about/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.uptech.cf/about/</guid>
-      <description> About UpTech UpTech is a blog about technology.
-We like Computers technology and all related things.
-We will provide you with quality content about a numerous number of topics, and various computer technologies.
-So stay tuned, and feel free to share with us your opinion and wishes about what would you like to know.
-</description>
     </item>
     
     <item>
