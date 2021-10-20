@@ -112,6 +112,14 @@ You can download Tor here: [Download Tor](https://www.torproject.org/download/)
 [<p align="center"><img src="/images/termux/tor.png"></p>](https://www.torproject.org/download/)
 
 <br/>
+
+## Watch Video
+
+<br/>
+
+{{< youtube a7sqonzJyHQ >}}
+
+<br/>
 <br/>
 <br/>
 <br/>
